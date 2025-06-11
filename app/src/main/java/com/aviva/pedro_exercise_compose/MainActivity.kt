@@ -1,6 +1,6 @@
 package com.aviva.pedro_exercise_compose
 
-import Spinner
+import com.aviva.pedro_exercise_compose.ui.Spinner
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent

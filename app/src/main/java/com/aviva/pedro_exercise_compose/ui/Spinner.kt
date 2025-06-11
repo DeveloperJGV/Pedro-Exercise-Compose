@@ -1,3 +1,5 @@
+package com.aviva.pedro_exercise_compose.ui
+
 import androidx.compose.animation.core.LinearEasing
 import androidx.compose.animation.core.RepeatMode
 import androidx.compose.animation.core.animateFloat
@@ -82,7 +84,7 @@ fun Spinner() {
     }
 }
 
-
+@Preview(showBackground = true)
 @Composable
 fun SpinnerPreview() {
     MaterialTheme {
